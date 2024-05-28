@@ -1,0 +1,15 @@
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\bin\Debug\net7.0\Couse-Schedule.exe
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\bin\Debug\net7.0\Couse-Schedule.deps.json
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\bin\Debug\net7.0\Couse-Schedule.runtimeconfig.json
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\bin\Debug\net7.0\Couse-Schedule.dll
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\bin\Debug\net7.0\Couse-Schedule.pdb
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\Couse-Schedule.csproj.AssemblyReference.cache
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\Couse-Schedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\Couse-Schedule.AssemblyInfoInputs.cache
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\Couse-Schedule.AssemblyInfo.cs
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\Couse-Schedule.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\Couse-Schedule.dll
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\refint\Couse-Schedule.dll
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\Couse-Schedule.pdb
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\Couse-Schedule.genruntimeconfig.cache
+C:\Users\adiaz\Documents\Proyectos\Couse-Schedule\obj\Debug\net7.0\ref\Couse-Schedule.dll
